@@ -745,7 +745,7 @@
 #define PRO_B_WITH_LEADSCREW
 #if ENABLED(PRO_B_WITH_LEADSCREW)       // M8 leadscrew version
   // #define DEFAULT_AXIS_STEPS_PER_UNIT   { 78.74, 78.74, 400, 105 }
-  #define DEFAULT_AXIS_STEPS_PER_UNIT   { 81.3, 81.7, 400.69, 96.7 }
+  #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.5, 80.7, 400.7, 96.7 }
 #else                                   // M8 threaded rod version
   #define DEFAULT_AXIS_STEPS_PER_UNIT   { 78.74, 78.74, 2560, 105 }
 #endif
