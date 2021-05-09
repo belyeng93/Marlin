@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
-<profile name="New Without G34" version="2021-05-03 08:53:10" app="S3D-Software 4.0.0">
+<profile name="Infil50" version="2021-05-08 11:30:14" app="S3D-Software 4.0.0">
   <baseProfile>Default</baseProfile>
   <printMaterial>PLA</printMaterial>
   <printQuality>Medium</printQuality>
   <printExtruders></printExtruders>
   <extruder name="Extruder 1">
     <toolheadNumber>0</toolheadNumber>
-    <diameter>0.3</diameter>
-    <autoWidth>0</autoWidth>
-    <width>0.35</width>
+    <diameter>0.4</diameter>
+    <autoWidth>1</autoWidth>
+    <width>0.48</width>
     <extrusionMultiplier>0.9</extrusionMultiplier>
     <useRetract>1</useRetract>
     <retractionDistance>1.5</retractionDistance>
